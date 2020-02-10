@@ -1,3 +1,9 @@
-.title {
-  color: #02ccba;
+h1{
+  color:yellow;
+  background-color: blue;
+  text-align:center
+}
+
+span{
+  color:red
 }
